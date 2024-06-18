@@ -1,0 +1,26 @@
+@font-face {
+  src: url("../fonts/yekan_regular.woff2");
+  font-family: "Yekan";
+}
+@font-face {
+  src: url("../fonts/yekan_bold.woff2");
+  font-family: "YekanBold";
+  font-weight: bold;
+}
+body, a, p, h1, h2, h3, h4, h5, h6, ul, li, button, span, input, textarea, select {
+  font-family: Yekan;
+}
+
+input, textarea {
+  font-family: Yekan !important;
+}
+
+::-moz-placeholder {
+  font-family: Yekan !important;
+  font-size: 14px;
+}
+
+::placeholder {
+  font-family: Yekan !important;
+  font-size: 14px;
+}

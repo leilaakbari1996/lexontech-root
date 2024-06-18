@@ -1,0 +1,10 @@
+<script src="{{TransferFacade::loadAsset('/root/assets/libs/filepond/dist/filepond.min.js')}}"></script>
+<script src="{{TransferFacade::loadAsset('/root/assets/libs/filepond-plugin-image-preview/dist/filepond-plugin-image-preview.min.js')}}"></script>
+<script src="{{TransferFacade::loadAsset('/root/assets/libs/filepond-plugin-image-exif-orientation/dist/filepond-plugin-image-exif-orientation.min.js')}}"></script>
+<script src="{{TransferFacade::loadAsset('/root/assets/libs/filepond-plugin-file-validate-size/dist/filepond-plugin-file-validate-size.min.js')}}"></script>
+<script src="{{TransferFacade::loadAsset('/root/assets/libs/filepond-plugin-file-encode/dist/filepond-plugin-file-encode.min.js')}}"></script>
+<script src="{{TransferFacade::loadAsset('/root/assets/libs/filepond-plugin-image-edit/dist/filepond-plugin-image-edit.min.js')}}"></script>
+<script src="{{TransferFacade::loadAsset('/root/assets/libs/filepond-plugin-file-validate-type/dist/filepond-plugin-file-validate-type.min.js')}}"></script>
+<script src="{{TransferFacade::loadAsset('/root/assets/libs/filepond-plugin-image-crop/dist/filepond-plugin-image-crop.min.js')}}"></script>
+<script src="{{TransferFacade::loadAsset('/root/assets/libs/filepond-plugin-image-transform/dist/filepond-plugin-image-transform.min.js')}}"></script>
+<script src="{{TransferFacade::loadAsset('/root/assets/js/lexontech/filepond.js')}}"></script>

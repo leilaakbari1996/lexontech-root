@@ -1,0 +1,23 @@
+{
+    "name": "lexontech/root",
+    "description": "Basic codes and registration system of Lexontech company.",
+    "require": {
+        "cviebrock/eloquent-sluggable": "^11.0",
+        "laravel/sanctum": "^4.0",
+        "intervention/image": "^3.7",
+        "ippanel/php-rest-sdk": "^2.0",
+        "morilog/jalali": "^3.4"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Lexontech\\Root\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "leila",
+            "email": "87874568+leilaakbari1996@users.noreply.github.com"
+        }
+    ]
+}

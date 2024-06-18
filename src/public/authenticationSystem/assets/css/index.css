@@ -1,0 +1,26 @@
+.btn-delete
+{
+    background-color: #d33;
+    cursor: pointer;
+}
+.btn-edit
+{
+    background: #6C5FFC;
+}
+
+.btn-edit:hover
+{
+    color: #dedefd;
+}
+
+.card-phone .cart-body
+{
+    padding: 10px;
+}
+.users .card-body
+{
+    height: 190px;
+    min-height: 190px;
+}
+
+

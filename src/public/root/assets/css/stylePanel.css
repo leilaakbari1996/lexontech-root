@@ -1,0 +1,173 @@
+.panel-logo
+{
+    width: 80%;
+}
+.form-text-error {
+    color: #dd3232 !important;
+    display: none;
+}
+
+.required-column {
+    border: red 1px solid !important;
+}
+
+.label-required:after {
+    content: " *";
+    color: red;
+}
+
+.my-d-none {
+    display: none;
+}
+
+.form-text-password {
+    color: #dd3232 !important;
+}
+
+#loader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.z-index-1 {
+    z-index: 1 !important;
+}
+
+.wait {
+    position: absolute;
+    top: 55%;
+}
+
+.clickable-row {
+    cursor: pointer;
+    background: red !important;
+}
+
+.calculation_result {
+    display: none;
+}
+
+.card-otp {
+    display: none;
+}
+
+
+.breadcrumb-item+.breadcrumb-item::before {
+    float: right !important;
+    padding-right: var(--bs-breadcrumb-item-padding-x);
+    color: var(--bs-breadcrumb-divider-color);
+    content: var(--bs-breadcrumb-divider, "/");
+}
+
+.breadcrumb-item+.breadcrumb-item::before
+{
+    color: #9595b5 !important;
+}
+[dir=rtl] .breadcrumb-item+.breadcrumb-item::before {
+    padding-right: .5rem;
+    padding-left: .5rem;
+}
+.ms-auto {
+    margin-inline-start: auto !important;
+    margin-inline-end: 0 !important;
+}
+
+.imgEdit
+{
+    width: 100px;
+    margin-bottom: 10px;
+    margin-inline-start: 50px;
+}
+
+.noChildren::after
+{
+    content: none;
+}
+
+.delete
+{
+    cursor: pointer;
+}
+
+.imgSetting
+{
+    height: 150px;
+}
+.sectionImage
+{
+    margin-top: 70px;
+}
+
+.app-sidebar .main-sidebar-header
+{
+    padding: 10px 53px;
+    margin-bottom: 20px;
+}
+/*.main-sidebar*/
+/*{*/
+/*    margin-top: 100px;*/
+/*}*/
+
+.imgIndex
+{
+    width: 100% !important;
+    height: auto !important;
+}
+
+.app-sidebar .main-menu
+{
+    padding-top: 70px;
+}
+
+.header-logo-responsive
+{
+    width: 100px;
+    display: none;
+}
+.main-sidebar-header
+{
+    display: block !important;
+}
+
+@media screen and (max-width: 992px) {
+    .header-logo-responsive
+    {
+        display: block;
+    }
+    .header-top
+    {
+        display: none;
+    }
+}
+
+
+.ql-editor p
+{
+    line-height: 2;
+}
+
+.fw-normal a
+{
+    line-height: 1.6;
+}
+.imgIndex
+{
+    max-height: 250px;
+}
+
+.create[disabled]
+{
+    cursor: no-drop !important;
+}
+
+.header-logo
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.header-logo img
+{
+    width: 50%;
+}
